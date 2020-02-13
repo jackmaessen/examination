@@ -1,5 +1,6 @@
 # examination
 ## simple multiple choice examination in php
+### no database required; data stored in flat files (.txt files)
 
  ### How to use
 - open settings.php and fill in your Questions and Options (eventual expiration)
