@@ -9,7 +9,7 @@
 
 ![ScreenShot](http://examination.webprofis.nl/img1.jpg)
 
-![ScreenShot](http://examniation.webprofis.nl/img2.jpg)
+![ScreenShot](http://examination.webprofis.nl/img2.jpg)
 
 ###  Features 
 - you can create as many questions as you want
