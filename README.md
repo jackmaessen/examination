@@ -13,8 +13,10 @@
 
 ###  Features 
 - you can create as many questions as you want
-- you can create as many options as you want for each questions
+- you can create as many options as you want for each question
 - you can set an expiration time on the examniation 
 
-###  DEMO 
+###  DEMO (for users)
 http://examination.webprofis.nl/index.php
+
+
